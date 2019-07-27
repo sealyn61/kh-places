@@ -1,0 +1,1311 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Afton State Park",
+        "visited": "2016",
+        "comments": "",
+        "activities": "Hiking trails",
+        "camping": "Backpack-in campsite, Camper cabin, Yurt",
+        "photo": "parks/Afton.JPG"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-92.797608, 44.847822]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Banning State Park",
+        "visited": "2017",
+        "comments": "",
+        "activities": "Hiking trails",
+        "camping": "Boat-in campsite, Canoe-in campsite, Camping, Camper cabin, Drive-in campsite, Kayak-in campsite",
+        "photo": "parks/Banning.JPG"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-92.848759, 46.179636]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bear Head Lake State Park",
+        "visited": "2018",
+        "comments": "",
+        "activities": "Canoe rental, Hiking trails, Kayak rental, Snowshoe rental",
+        "camping": "Backpack-in campsite, Boat-in campsite, Camper cabin, Canoe-in campsite, Drive-in campsite, Kayak-in campsite",
+        "notes": "Feels like the BWCA and an amazing hiking club trail! Beautiful views and amazing scenery throughout the park. Stay in the red pine camper cabin.",
+        "photo": "parks/BearHeadLake.JPG"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-92.047706, 47.819641]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beaver Creek Valley State Park",
+        "visited": "2018",
+        "comments": "",
+        "activities": "Hiking trails, Snowshoe rental",
+        "camping": "Camper cabin, Drive-in campsite, Walk-in campsite, Cart-in campsite",
+        "notes": "Big Spring, Amazing hiking trails, Cart-in #43",
+        "photo": "parks/BeaverCreekValley.JPG"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-91.555023, 43.645962]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Big Bog State Park",
+        "visited": "2017",
+        "comments": "Bog boardwalk",
+        "activities": "Boat rental, Canoe rental, Hiking trails, Kayak rental",
+        "camping": "Camper cabin, Drive-in campsite, Pull-through campsite",
+        "notes": "Check out the sunset over Upper Red Lake. Great camper cabins!",
+        "photo": "parks/BigBog.JPG"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-94.512686, 48.170809]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Big Stone State Park",
+        "visited": "Planned",
+        "comments": "",
+        "activities": "Canoe rental, Hiking trails",
+        "camping": "Drive-in campsite",
+        "notes": "Planned June 2019"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-96.53036, 45.391608]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blue Mounds State Park",
+        "visited": "2017",
+        "comments": "Bison",
+        "activities": "Canoe rental, Hiking trails, Paved bike trail",
+        "camping": "Drive-in campsite, Tipi",
+        "photo": "parks/BlueMounds.JPG",
+        "notes": "Tipi 1"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-96.192638, 43.7177]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buffalo River State Park",
+        "visited": "Planned",
+        "comments": "",
+        "activities": "Hiking trails",
+        "camping": "Drive-in campsite",
+        "notes": "Planned September 2019"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-96.474624, 46.872839]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Camden State Park",
+        "visited": "2017",
+        "comments": "",
+        "activities": "Canoe rental, Hiking trails, Kayak rental, Snowshoe rental",
+        "camping": "Drive-in campsite, Pull-through campsite",
+        "photo": "parks/Camden.JPG"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-95.918122, 44.355699]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Caribou Falls State Wayside",
+        "visited": "2019",
+        "comments": "Superior Hiking Trail access. A 3/4 mile trail along the Caribou River to Caribou Falls (35-ft waterfall), and also provides stunning views of Lake Superior and the Caribou River gorge. [Note: No sanitation facilities and No picnic tables].",
+        "activities": "Hiking trails",
+        "notes": "Beautiful hike and huge waterfall off a Superior Hiking Club spur trail",
+        "photo": "parks/CaribouFalls.JPG"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-91.030372, 47.464278]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carley State Park",
+        "visited": "2018",
+        "comments": "",
+        "activities": "Hiking trails",
+        "camping": "Drive-in campsite, Pull-through campsite",
+        "photoType": "portrait",
+        "photo": "parks/Carley.JPG",
+        "notes": "Virginia Bluebells and White Trout Lilies bloom in May."
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-92.169425, 44.109915]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cascade River State Park",
+        "visited": "2019",
+        "comments": "Waterfalls! Hike to the top of Moose Mountain (el. 1,148 ft.) and Lookout Mountain (el. 1,200 ft.)",
+        "activities": "Hiking trails, Snowshoe rental",
+        "camping": "Backpack-in campsite, Drive-in campsite, Kayak-in campsite, Pull-through campsite",
+        "photo": "parks/CascadeRiver.JPG"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-90.505919, 47.710959]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Charles A. Lindbergh State Park",
+        "visited": "2019",
+        "comments": "",
+        "activities": "Canoe rental, Hiking trails",
+        "camping": "Drive-in campsite",
+        "photo": "parks/CharlesLindbergh.JPG",
+        "notes": "Beautiful fall colors! Lots of frogs and mosquitos in late spring/early summer."
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-94.388152, 45.958857]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crow Wing State Park",
+        "visited": "2019",
+        "comments": "",
+        "activities": "Canoe rental, Hiking trails",
+        "camping": "Camper cabin, Drive-in campsite",
+        "photo": "parks/CrowWing.JPG",
+        "photoType": "portrait",
+        "notes": "Beautiful historic park. Great basic camper cabin."
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-94.318974, 46.264153]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cuyuna Country State Recreation Area",
+        "visited": "2019",
+        "comments": "Croft Mine historic site",
+        "activities": "Hiking trails, Paved bike trail",
+        "camping": "Drive-in campsite, Yurt",
+        "photo": "parks/CuyunaCountry.JPG",
+        "notes": ""
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-93.983762, 46.481766]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Devils Track Falls State Wayside",
+        "visited": "N/A",
+        "comments": "Access to Devils Track is off the Gunflint Trail via the Superior Hiking Trail. It is a two-mile hike, one way, to reach the wayside. From here you can visit Pincushion Mountain, a rock outcrop overlooking Lake Superior. [Note: No sanitation facilities and No picnic tables].",
+        "activities": "Hiking trails",
+        "notes": ""
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-90.282530, 47.778101]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Father Hennepin State Park",
+        "visited": "2017",
+        "comments": "",
+        "activities": "Hiking trails",
+        "camping": "Drive-in campsite",
+        "notes": "Great small park!",
+        "photo": "parks/FatherHennepin.JPG"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-93.480541, 46.138048]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Flandrau State Park",
+        "visited": "2018",
+        "comments": "",
+        "activities": "Groomed snowshoe trails, Hiking trails, Snowshow rental",
+        "camping": "Camper cabin, Drive-in campsite, Pull-through campsite, Walk-in campsite",
+        "notes": "On the outskirts of New Ulm. Lots of biomes (prairie, forest, and grassland)! Hackberry Haven Camper cabin",
+        "photoType": "portrait",
+        "photo": "parks/Flandrau.JPG"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-94.459411, 44.294231]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Flood Bay State Wayside",
+        "visited": "2018",
+        "comments": "One of the top beach walks along the North Shore. A long pebble beach along the shores of Lake Superior, just outside Two Harbors. [Note: One vault toilet and No picnic tables].",
+        "activities": "Hiking trails",
+        "notes": "",
+        "photo": "parks/FloodBay.JPG"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-91.642437, 47.038397]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Forestville Mystery Cave State Park",
+        "visited": "2018",
+        "comments": "Mystery cave and historic Forestville tours",
+        "activities": "Hiking trails, Snowshoe rental",
+        "camping": "Camper cabin, Drive-in campsite",
+        "notes": "Geology cave tour",
+        "photo": "parks/ForestvilleMystery.JPG"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-92.230635, 43.633664]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort Ridgely State Park",
+        "visited": "2018",
+        "comments": "",
+        "activities": "Hiking trails, Paved bike trails",
+        "camping": "Drive-in campsite, Pull-through campsite, Walk-in campsite",
+        "notes": "Monarch migration (Labor Day weekend 2018)",
+        "photo": "parks/FortRidgely.JPG"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-94.726687, 44.447905]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort Snelling State Park",
+        "visited": "2018",
+        "comments": "",
+        "activities": "Canoe rental, Groomed snowshoe trails, Kayak rental, Snowshoe rental, Paved bike trails",
+        "camping": "",
+        "photo": "parks/FortSnelling.JPG",
+        "notes": "Beautiful hike around Pike Island. Very quiet park near the airport."
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-93.195991, 44.871366]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Franz Jevne State Park",
+        "visited": "N/A",
+        "comments": "",
+        "activities": "Hiking trails",
+        "camping": "Drive-in campsite, Walk-in campsite"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-94.058496, 48.641689]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Frontenac State Park",
+        "visited": "2018",
+        "comments": "Birdwatching paradise",
+        "activities": "Hiking trails, Snowshoe rental",
+        "camping": "Backpack-in campsite, Cart-in campsite, Drive-in campsite",
+        "photo": "parks/Frontenac.JPG",
+        "notes": "Amazing hiking and views of Lake Pepin, Bird migration (spring/fall), butterfly migration (fall), Cart-in #6"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-92.343275, 44.521833]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Garden Island State Recreation Area",
+        "visited": "N/A",
+        "comments": "Accessible only by watercraft or snowmobile, this island serves as a rest stop for anyone out boating or ice-fishing. Enjoy a break completely surrounded by the vast beauty of Lake of the Woods.",
+        "activities": "",
+        "camping": ""
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-94.834916, 49.175724]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "George H. Crosby Manitou State Park",
+        "visited": "N/A",
+        "comments": "Waterfalls",
+        "activities": "Hiking trails",
+        "camping": "Backpack-in campsite",
+        "notes": "Planning Fall 2019"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-91.123011, 47.479452]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Glacial Lakes State Park",
+        "visited": "2017",
+        "comments": "",
+        "activities": "Canoe rental, Hiking trails, Kayak rental, Paddleboard rental, Paved bike trails",
+        "camping": "Backpack-in campsite, Camper cabin, Drive-in campsite, Pull-through campsite",
+        "photo": "parks/GlacialLakes.JPG",
+        "notes": "Beautiful hiking trails!"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-95.533468, 45.54167]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Glendalough State Park",
+        "visited": "2018",
+        "comments": "Fall color destination",
+        "activities": "Boat rental, Canoe rental, Kayak rental, Paddleboard rental, Paved bike trails, Snowshoe rental",
+        "camping": "Backpack-in campsite, Camper cabin, Canoe-in campsite, Cart-in campsite, Kayak-in campsite, Yurt",
+        "notes": "Canoe-in yurts",
+        "photo": "parks/Glendalough.JPG"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-95.67996, 46.311447]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gooseberry State Park",
+        "visited": "2019",
+        "comments": "Waterfalls",
+        "activities": "Hiking trails, Paved bike trails",
+        "camping": "Drive-in campsite, Kayak-in campsite, Pull-through campsite",
+        "photo": "parks/GooseberryFalls.JPG"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-91.47335, 47.13986]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grand Portage State Park",
+        "visited": "2018",
+        "comments": "Minnesota's highest waterfall; no entry fee",
+        "activities": "Groomed snowshoe trail, Hiking trails, Snowshoe rental",
+        "camping": "",
+        "notes": "",
+        "photoType": "portrait",
+        "photo": "parks/GrandPortage.JPG"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-89.59363, 47.998931]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Great River Bluffs State Park",
+        "visited": "2018",
+        "comments": "Blufftop views, including 5 scenic overlooks, of the Mississippi River Valley",
+        "activities": "Snowshoe rental",
+        "camping": "Cart-in campsite, Drive-in campsite",
+        "photoType": "portrait",
+        "photo": "parks/GreatRiverBluffs.JPG",
+        "notes": "'Where the hardwood forest ends', Cart-in site #3"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-91.429388, 43.937272]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Greenleaf Lake State Recreation Area",
+        "visited": "2018",
+        "comments": "",
+        "activities": "Hiking trails",
+        "camping": "",
+        "notes": "Still under construction",
+        "photo": "parks/GreenleafLake.JPG"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-94.47885, 45.008953]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hayes Lake State Park",
+        "visited": "N/A",
+        "comments": "Bog boardwalk, Hayes dam, Scenic overlook views",
+        "activities": "Boat rental, Canoe rental, Hiking trails, Kayak rental",
+        "camping": "Backpack-in campsite, Camper cabin, Drive-in campsite, Kayak-in campsite, Walk-in campsite"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-95.545248, 48.643872]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hill-Annex Mine State Park",
+        "visited": "2019",
+        "comments": "Mine and Fossil tours",
+        "activities": "",
+        "camping": "",
+        "photo": "parks/HillAnnexMine.JPG",
+        "notes": ""
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-93.277504, 47.325852]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Inspiration Peak State Wayside",
+        "visited": "2018",
+        "comments": "A winding trail to the summit passes through a beautiful hardwood forest that opens to an expanse of rolling prairie hills. Rising 400 feet above the surrounding countryside, Inspiration Peak offers spectacular views in three directions. The native prairie on the top of the peak has been there for hundreds of years, and showcases many beautiful prairie wildflowers. Nobel Prize-winning novelist Sinclair Lewis shared his passion for this peak with his readers. [Note: Sanitation facilities and picnic tables present].",
+        "activities": "Hiking trails",
+        "notes": "Shorter hike, around 15-mins round-trip, but steep throughout.",
+        "photoType": "portrait",
+        "photo": "parks/InspirationPeak.JPG"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-95.576788, 46.136993]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Interstate State Park",
+        "visited": "2017",
+        "comments": "Rock formations",
+        "activities": "Canoe rental, Hiking trails",
+        "camping": "Drive-in campsite",
+        "notes": "Site 21",
+        "photo": "parks/Interstate.JPG"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-92.667836, 45.394917]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Iron Range Off-Highway Vehicle State Recreation Area",
+        "visited": "N/A",
+        "comments": "Visit Minnesota's premier off-highway vehicle recreation area to ride 36 miles of scenic trails such as Attitude Alley, Quartz Mountain, and Jackpine Lane. No entrance fee required. Open daily May through October; weekends only with limited staffing late November to April.",
+        "activities": "Day-use only, OHV trails, Picnic shelter",
+        "camping": "",
+        "notes": ""
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-92.514518, 47.502278]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Itasca State Park",
+        "visited": "2016",
+        "comments": "Mississippi River Headwaters, Fire tower",
+        "activities": "Canoe rental, Groomed snowshoe trails, Hiking trails, Kayak rental, Paddleboard rental, Paved bike trails, Snowshoe rental",
+        "camping": "Backpack-in campsite, Cart-in campsite, Drive-in campsite, Lodge, Pull-through campsite",
+        "photo": "parks/Itasca.JPG"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-95.212237, 47.250031]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jay Cooke State Park",
+        "visited": "2018",
+        "comments": "Swinging bridge over the St. Louis River; Thomson bridge",
+        "activities": "Hiking trails, Paved bike trails, Snowshoe rental",
+        "camping": "Backpack-in camping, Camper cabin, Drive-in campsite, Pull-through campsite, Walk-in campsite",
+        "notes": "The swinging bridge offers incredible views, especially of fall colors. Drive a bit further north to hike Ely's peak, an incredible view just south of Duluth. Stay in the Basalt camper cabin.",
+        "photo": "parks/JayCooke.JPG"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-92.399082, 46.661595]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "John A. Latsch State Park",
+        "visited": "2018",
+        "comments": "A half-mile hike (592 steps) up the deep ravine to Charity Peak for a panoramic view of the Mississippi River Valley",
+        "activities": "Hiking trails",
+        "camping": "",
+        "photo": "parks/JohnALatsch.JPG",
+        "notes": "Beautiful views!"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-91.838344, 44.172549]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Joseph R. Brown State Wayside",
+        "visited": "2018",
+        "comments": "2012 marked 150 years since the U.S.-Dakota War of 1862. This wayside features the ruins of Joseph R. Brown's three-story mansion, destroyed during the Dakota War of 1862. [Note: No sanitation facilities and one picnic tables present].",
+        "activities": "Hiking trails",
+        "notes": "",
+        "photo": "parks/JosephRBrown.JPG"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-95.322387, 44.696092]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Judge C. R. Magney State Park",
+        "visited": "2018",
+        "comments": "Devil's Kettle waterfall",
+        "activities": "Hiking trails",
+        "camping": "Drive-in campsite",
+        "notes": "",
+        "photoType": "portrait",
+        "photo": "parks/JudgeCRMagney.JPG"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-90.053747, 47.817415]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kilen Woods State Park",
+        "visited": "Planned",
+        "comments": "Dinosaur Ridge Overlook",
+        "activities": "Hiking trails",
+        "camping": "Cart-in campsite, Drive-in campsite, Pull-through campsite",
+        "notes": "Planned June 2019"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-95.068799, 43.732178]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kadunce River State Wayside",
+        "visited": "2018",
+        "comments": "Access the Kodonce River Gorge via a Superior Hiking Trail spur. Off from the rest area, enjoy a walk down to Lake Superior beachfront along the mouth of the Kodonce River. [Note: No sanitation facilities, but picnic tables are present].",
+        "activities": "Hiking trails",
+        "notes": "",
+        "photo": "parks/KadunceRiver.JPG"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-90.154165, 47.793945]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Salle Lake State Recreation Area",
+        "visited": "2017",
+        "comments": "La Salle Lake is Minnesota's deepest natural inland lake.",
+        "activities": "Hiking trails",
+        "notes": "Hiking club trail ends where La Salle Creek meets with the Mississippi.",
+        "camping": "Drive-in campsite",
+        "photo": "parks/LaSalleLake.JPG"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-95.166043, 47.348]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lac qui Parle State Park",
+        "visited": "2018",
+        "comments": "",
+        "activities": "Canoe rental, Hiking trails, Kayak rental, Snowshoe rental",
+        "camping": "Camper cabin, Drive-in campsite, Pull-through campsite, Walk-in campsite",
+        "notes": "Waterfowl paradise. Lots of mosquitoes (in September!). Hummingbird moth",
+        "photoType": "portrait",
+        "photo": "parks/LacquiParle.JPG"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-95.894069, 45.021109]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Bemidji State Park",
+        "visited": "2017",
+        "comments": "Tamarack bog walk",
+        "activities": "Boat rental, Canoe rental, Hiking trails, Kayak rental, Snowshoe rental",
+        "camping": "Camper cabin, Drive-in campsite, Pull-through campsite",
+        "photoType": "portrait",
+        "photo": "parks/LakeBemidji.JPG"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-94.835799, 47.540636]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Bronson State Park",
+        "visited": "N/A",
+        "comments": "",
+        "activities": "Hiking trails, Kayak rental, Paved bike trails",
+        "camping": "Backpack-in campsite, Boat-in campsite, Canoe-in campsite, Drive-in campsite, Kayak-in campsite, Walk-in campsite"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-96.634675, 48.731464]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Carlos State Park",
+        "visited": "2018",
+        "comments": "",
+        "activities": "Boat rental, Canoe rental, Hiking trails",
+        "camping": "Camper cabin, Drive-in campsite",
+        "notes": "Historic places bath house converted to a public restroom near the beach.",
+        "photo": "parks/LakeCarlos.JPG"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-95.332947, 46.000442]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Louise State Park",
+        "visited": "2018",
+        "comments": "Shooting Star State Trail",
+        "activities": "Hiking trails, Paved bike trails",
+        "camping": "Drive-in campsite",
+        "notes": "Beautiful well-marked hiking club trail. Don't forget to venture off the trail to see some great views from bridges.",
+        "photo": "parks/LakeLouise.JPG"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-92.509176, 43.535955]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Maria State Park",
+        "visited": "2017",
+        "comments": "Blandings turtles, Winter skating rink",
+        "activities": "Boat rental, Canoe rental, Groomed snowshoe trail, Hiking trails, Kayak rental, Snowshoe rental",
+        "camping": "Backpack-in campsite, Camper cabin",
+        "photo": "parks/LakeMaria.JPG"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-93.931667, 45.317411]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Shetek State Park",
+        "visited": "Planned",
+        "comments": "Casey Jones State Trail",
+        "activities": "Boat rental, Canoe rental, Hiking trails, Kayak rentals, Paddleboard rental, Paved bike trail, Snowshoe rental",
+        "camping": "Camper cabin, Cart-in campsite, Drive-in campsite, Pull-through campsite",
+        "notes": "Planned June 2019"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-95.6808, 44.094789]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Vermilion-Soudan Underground Mine State Park",
+        "visited": "2018",
+        "comments": "Lander Mattson Peak; Journey a half-mile underground to explore the world of mining or tour a fascinating physics lab. This park preserves five miles of shoreline and public access to a 40,000-acre lake with 368 islands. Hike the 2.4-mile Alaska Shaft trail for an overview.",
+        "activities": "Hiking trails, Paved bike trails",
+        "camping": "Drive-in campsite, Boat-in campsite",
+        "notes": "Book the mine tour, you won't be disappointed!",
+        "photo": "parks/LakeVermilionSoudan.JPG"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-92.248857, 47.816696]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maplewood State Park",
+        "visited": "Planned",
+        "comments": "",
+        "activities": "Boat rental, Canoe rental, Groomed snowshoe trail, Hiking trails, Kayak rental, Snowshoe rental",
+        "camping": "Backpack-in campsite, Camper cabin, Drive-in campsite, Pull-through campsite",
+        "notes": "Planned September 2019"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-95.954175, 46.549975]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "McCarthy Beach State Park",
+        "visited": "N/A",
+        "comments": "Nationally recognized beach.",
+        "activities": "Boat rental, Canoe rental, Hiking trails, Kayak rental, Paddleboard rental",
+        "camping": "Drive-in campsite, Walk-in campsite",
+        "notes": ""
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-93.031541, 47.6689]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mille Lacs Kathio State Park",
+        "visited": "2017",
+        "comments": "Fire tower overlooking Mille Lacs Lake",
+        "activities": "Boat rental, Canoe rental, Hiking trails, Kayak rental, Snowshoe rental",
+        "camping": "Backpack-in campsite, Camper cabin, Drive-in campsite, Pull-through campsite",
+        "notes": "Populated park",
+        "photoType": "portrait",
+        "photo": "parks/MilleLacsKathio.JPG"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-93.724473, 46.135411]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Minneopa State Park",
+        "visited": "2006",
+        "comments": "Waterfalls",
+        "activities": "Hiking trails, Paved bike trails, Snowshoe rental",
+        "camping": "Camper cabin, Drive-in campsite",
+        "photoType": "portrait",
+        "photo": "parks/Minneopa.JPG"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-94.091356, 44.156337]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Minnesota Valley State Recreation Area",
+        "visited": "N/A",
+        "comments": "Minnesota Valley State Trail",
+        "activities": "Hiking trails, Paved bike trails",
+        "camping": "Backpack-in campsite, Walk-in campsite",
+        "notes": ""
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-93.715927, 44.650309]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monson Lake State Park",
+        "visited": "2017",
+        "comments": "",
+        "activities": "Hiking trails",
+        "camping": "Drive-in campsite",
+        "photo": "parks/MonsonLake.JPG"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-95.275962, 45.318323]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moose Lake State Park",
+        "visited": "2018",
+        "comments": "Agate and Geological Interpretive Center",
+        "activities": "Boat rental, Canoe rental, Hiking trails, Kayak rental, Paved bike trails",
+        "camping": "Drive-in campsite, Walk-in campsite",
+        "notes": "Beautiful and quiet, right off I-35",
+        "photoType": "portrait",
+        "photo": "parks/MooseLake.JPG"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-92.735812, 46.436375]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Myre-Big Island State Park",
+        "visited": "2017",
+        "comments": "Blazing Star State Trail",
+        "activities": "Boat rental, Canoe rental, Hiking trails, Kayak rental, Paddleboard rental, Paved bike trails, Snowshoe rental",
+        "camping": "Backpack-in campsite, Canoe-in campsite, Drive-in campsite, Kayak-in campsite",
+        "notes": "Sunset by picnic area off spit west of Big Island",
+        "photo": "parks/MyreBigIsland.JPG"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-93.308976, 43.640411]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nerstrand Big Woods State Park",
+        "visited": "2017",
+        "comments": "Home to the rare Dwarf Trout Lily; Waterfall",
+        "activities": "Hiking trails, Snowshoe rental",
+        "camping": "Drive-in campsite, Pull-through campsite",
+        "photoType": "portrait",
+        "photo": "parks/NerstrandBigWoods.JPG"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-93.091041, 44.341775]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old Mill State Park",
+        "visited": "N/A",
+        "comments": "Swinging bridge",
+        "activities": "Hiking trails",
+        "camping": "Drive-in campsite"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-96.565575, 48.361407]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ray Berglund State Wayside",
+        "visited": "2019",
+        "comments": "A 1/2 mile, primitive trail along the bluffs overlooks the Onion River. A good view of Lake Superior from across U.S. Highway 61 and the Gitchi Gami State Trail.[Note: Seasonal sanitation facilities, and picnic tables present overlooking Lake Superior].",
+        "activities": "Hiking trails",
+        "photo": "parks/RayBerglund.JPG"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-90.769338, 47.609346]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Red River State Park",
+        "visited": "N/A",
+        "comments": "",
+        "activities": "Hiking trails, Paved bike trail",
+        "camping": "Drive-in campsite, Pull-through campsite"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-97.026415, 47.930828]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rice Lake State Park",
+        "visited": "2017",
+        "comments": "",
+        "activities": "Canoe rental, Hiking trails, Kayak rental",
+        "camping": "Canoe-in campsite, Cart-in campsite, Drive-in campsite, Walk-in campsite",
+        "notes": "Cart in #1",
+        "photo": "parks/RiceLake.JPG"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-93.063508, 44.095564]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saint Croix Islands State Recreation Area",
+        "visited": "N/A",
+        "comments": "Accessible only by boat",
+        "activities": "",
+        "camping": "",
+        "notes": ""
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-92.797364, 45.076056]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Croix Boom Site State Wayside",
+        "visited": "N/A",
+        "comments": "A 1/2 mile trail along the St. Croix River connects historical and geological markers with the north parking lot with interpretive panels, a large picnic area and a seasonal sanitation facility. [Note: Seasonal sanitation facilities].",
+        "activities": "Hiking trails, Historical marker",
+        "notes": ""
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-92.785633, 45.084872]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Croix State Park",
+        "visited": "N/A",
+        "comments": "Largest state park in Minnesota; Fire tower",
+        "activities": "Canoe rental, Hiking trails, Kayak rental, Paved bike trail, Snowshoe rental",
+        "camping": "Backpack campsite, Drive-in campsite, Walk-in campsite",
+        "notes": ""
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-92.617885, 46.01201]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sakatah Lake State Park",
+        "visited": "2017",
+        "comments": "",
+        "activities": "Boat rental, Canoe rental, Hiking trails, Kayak rental, Paddleboard rental, Paved bike trail",
+        "camping": "Camper cabin, Drive-in campsite",
+        "photo": "parks/Sakatah.JPG"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-93.532328, 44.217841]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sam Brown Memorial State Wayside",
+        "visited": "Planned",
+        "comments": "2012 marked 150 years since the U.S.-Dakota War of 1862. Created to honor Joseph R. Brown's son Samuel J. Brown, the 'Paul Revere of the West,' who rode 120 miles through a storm on April 19, 1866 to warn of an expected Dakota attack. [Note: One vault toilet].",
+        "activities": "Historical marker",
+        "notes": "Planned June 2019"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-96.840932, 45.595331]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Savanna Portage State Park",
+        "visited": "2019",
+        "comments": "Continental divide",
+        "activities": "Boat rental, Canoe rental, Hiking trails, Snowshoe rental",
+        "camping": "Backpack-in campsite, Camper cabin, Canoe-in campsite, Drive-in campsite, Guesthouse, Pull-through campsite",
+        "photo": "parks/SavannaPortage.JPG",
+        "notes": ""
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-93.249885, 46.757292]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Scenic State Park",
+        "visited": "2017",
+        "comments": "Chase Point Trail is on an esker, or a long, winding ridge of stratified sand and gravel from a glacier.",
+        "activities": "Boat rental, Canoe rental, Hiking trail, Kayak rental, Paddleboard rental",
+        "camping": "Backpack-in campsite, Boat-in campsite, Canoe-in campsite, Drive-in campsite, Pull-through campsite",
+        "photoType": "portrait",
+        "photo": "parks/Scenic.JPG"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-93.566799, 47.702943]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schoolcraft State Park",
+        "visited": "2019",
+        "comments": "",
+        "activities": "Hiking trail",
+        "camping": "Canoe-in campsite, Drive-in campsite",
+        "photoType": "portrait",
+        "photo": "parks/Schoolcraft.JPG",
+        "notes": "Lovely small park."
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-93.806591, 47.222814]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sibley State Park",
+        "visited": "2017",
+        "comments": "Mount Tom (el. 1,375 ft.); Glacial Lakes State Trail",
+        "activities": "Boat rental, Canoe rental, Groomed snowshoe trail, Hiking trails, Kayak rental, Paved bike trail, Snowshoe rental",
+        "camping": "Camper cabin, Drive-in campsite, Pull-through campsite",
+        "photoType": "portrait",
+        "photo": "parks/Sibley.JPG"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-95.009081, 45.311289]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Split Rock Creek State Park",
+        "visited": "2017",
+        "comments": "",
+        "activities": "Boat rental, Canoe rental, Hiking trails, Kayak rental, Paddleboard rental",
+        "camping": "Drive-in campsite",
+        "photo": "parks/SplitRockCreek.JPG"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-96.367169, 43.895953]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Split Rock Lighthouse State Park",
+        "visited": "2019",
+        "comments": "Lighthouse; Waterfalls; Pebble Beach; Gitchi-Gami State Trail",
+        "activities": "Hiking trails, Paved bike trail",
+        "camping": "Backpack-in campsite, Cart-in campsite, Kayak-in campsite",
+        "notes": "Cart-in site 18",
+        "photo": "parks/SplitRockLighthouse.JPG"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-91.368248, 47.20565]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Temperance River State Park",
+        "visited": "2019",
+        "comments": "Waterfalls; Take the Superior Hiking Trail through the gorge to Carlton Peak (el. 1,526 ft.)",
+        "activities": "Hiking trails, Paved bike trail",
+        "camping": "Cart-in campsite, Pull-through campsite",
+        "notes": "Beautiful geology",
+        "photoType": "portrait",
+        "photo": "parks/TemperanceRiver.JPG"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-90.877469, 47.552663]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tettegouche State Park",
+        "visited": "2019",
+        "comments": "Several waterfalls along the Baptism River, including High Falls, the highest waterfall entirely inside Minnesota's border.",
+        "activities": "Canoe rental, Hiking trails, Snowshoe rental",
+        "camping": "Cart-in campsite, Drive-in campsite, Kayak-in campsite, Walk-in campsite",
+        "notes": "Shovel point, High Falls",
+        "photo": "parks/Tettegouche.JPG"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-91.196346, 47.339875]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Upper Sioux Agency State Park",
+        "visited": "2018",
+        "comments": "",
+        "activities": "Hiking trails",
+        "camping": "Drive-in campsite, Pull-through campsite, Tipi, Walk-in campsite",
+        "notes": "Monarch migration (Labor Day weekend 2018), Tipi #26",
+        "photo": "parks/UpperSiouxAgency.JPG"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-95.460501, 44.736979]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Whitewater State Park",
+        "visited": "2018",
+        "comments": "Fire tower",
+        "activities": "Hiking trails, Snowshoe rental",
+        "camping": "Camper cabin, Cart-in campsite, Drive-in campsite, Pull-through campsite",
+        "notes": "Chimney rock trail/overlook, Cart-in site 2",
+        "photo": "parks/Whitewater.JPG"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-92.043204, 44.062919]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wild River State Park",
+        "visited": "2017",
+        "comments": "Nevers Dam Overlook",
+        "activities": "Canoe rental, Hiking trails, Kayak rental, Snowshoe rental",
+        "camping": "Backpack-in campsite, Camper cabin, Drive-in campsite, Guesthouse, Pull-through campsite",
+        "photo": "parks/WildRiver.JPG"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-92.754468, 45.524211]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "William O'Brien State Park",
+        "visited": "2017",
+        "comments": "Nevers Dam Overlook",
+        "activities": "Canoe rental, Groomed snowshoe trail, Hiking trails, Kayak rental, Paddleboard rental, Paved bike trail, Snowshoe rental",
+        "camping": "Camper cabin, Walk-in campsite",
+        "photo": "parks/WilliamOBrien.JPG"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-92.754468, 45.225346]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zippel Bay State Park",
+        "visited": "N/A",
+        "comments": "",
+        "activities": "Canoe rental, Hiking trails",
+        "camping": "Drive-in campsite, Pull-through campsite"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-94.850004, 48.844387]
+        }
+    }
+  ]
+}

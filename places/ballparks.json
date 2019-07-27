@@ -1,0 +1,475 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.066564,
+          33.445081
+        ]
+      },
+      "properties": {
+        "teamName": "Arizona Diamondbacks",
+        "ballparkName": "Chase Field",
+        "visited": "2019",
+        "photoType": "ballpark",
+        "photo": "ballparks/ChaseField.JPG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.468,
+          33.89
+        ]
+      },
+      "properties": {
+        "teamName": "Atlanta Braves",
+        "ballparkName": "SunTrust Park",
+        "visited": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.621914,
+          39.283487
+        ]
+      },
+      "properties": {
+        "teamName": "Baltimore Orioles",
+        "ballparkName": "Oriole Park at Camden Yards",
+        "visited": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.097757,
+          42.346202
+        ]
+      },
+      "properties": {
+        "teamName": "Boston Red Sox",
+        "ballparkName": "Fenway Park",
+        "visited": "Kitty only"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65581,
+          41.947904
+        ]
+      },
+      "properties": {
+        "teamName": "Chicago Cubs",
+        "ballparkName": "Wrigley Field",
+        "visited": "2018",
+        "photoType": "ballpark",
+        "photo": "ballparks/WrigleyField.JPG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.634206,
+          41.830189
+        ]
+      },
+      "properties": {
+        "teamName": "Chicago White Sox",
+        "ballparkName": "Guaranteed Rate Field",
+        "visited": "2018",
+        "photoType": "ballpark",
+        "photo": "ballparks/GuaranteedRateField.JPG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.509007,
+          39.096549
+        ]
+      },
+      "properties": {
+        "teamName": "Cincinnati Reds",
+        "ballparkName": "Great American Ball Park",
+        "visited": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.685286,
+          41.495506
+        ]
+      },
+      "properties": {
+        "teamName": "Cleveland Indians",
+        "ballparkName": "Progressive Field",
+        "visited": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.99414,
+          39.755683
+        ]
+      },
+      "properties": {
+        "teamName": "Colorado Rockies",
+        "ballparkName": "Coors Field",
+        "visited": 2016,
+        "photoType": "ballpark",
+        "photo": "ballparks/CoorsField.JPG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.04903,
+          42.339474
+        ]
+      },
+      "properties": {
+        "teamName": "Detroit Tigers",
+        "ballparkName": "Comerica Park",
+        "visited": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.219614,
+          25.778058
+        ]
+      },
+      "properties": {
+        "teamName": "Miami Marlins",
+        "ballparkName": "Marlins Park",
+        "visited": 2012,
+        "photoType": "ballpark",
+        "photo": "ballparks/MarlinsPark.JPG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.35632,
+          29.756778
+        ]
+      },
+      "properties": {
+        "teamName": "Houston Astros",
+        "ballparkName": "Minute Maid Park",
+        "visited": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.480817,
+          39.051221
+        ]
+      },
+      "properties": {
+        "teamName": "Kansas City Royals",
+        "ballparkName": "Kauffman Stadium",
+        "visited": "2017",
+        "photoType": "portrait",
+        "photo": "ballparks/KauffmanStadium.JPG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.883194,
+          33.799925
+        ]
+      },
+      "properties": {
+        "teamName": "Los Angeles Angels of Anaheim",
+        "ballparkName": "Angels Stadium",
+        "visited": "Eric only"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.24026,
+          34.073432
+        ]
+      },
+      "properties": {
+        "teamName": "Los Angeles Dodgers",
+        "ballparkName": "Dodger Stadium",
+        "visited": "Eric only"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.971303,
+          43.028478
+        ]
+      },
+      "properties": {
+        "teamName": "Milwaukee Brewers",
+        "ballparkName": "Miller Park",
+        "visited": "2018",
+        "photoType": "ballpark",
+        "photo": "ballparks/MillerPark.JPG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.278333,
+          44.981667
+        ]
+      },
+      "properties": {
+        "teamName": "Minnesota Twins",
+        "ballparkName": "Target Field",
+        "visited": 2017,
+        "photoType": "portrait",
+        "photo": "ballparks/TargetField.JPG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.845833,
+          40.756944
+        ]
+      },
+      "properties": {
+        "teamName": "New York Mets",
+        "ballparkName": "Citi Field",
+        "visited": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.928428,
+          40.826918
+        ]
+      },
+      "properties": {
+        "teamName": "New York Yankees",
+        "ballparkName": "Yankee Stadium",
+        "visited": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.201158,
+          37.751262
+        ]
+      },
+      "properties": {
+        "teamName": "Oakland Athletics",
+        "ballparkName": "Network Associates Coliseum",
+        "visited": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.16653,
+          39.905437
+        ]
+      },
+      "properties": {
+        "teamName": "Philadelphia Phillies",
+        "ballparkName": "Citizens Bank Park",
+        "visited": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.006626,
+          40.447265
+        ]
+      },
+      "properties": {
+        "teamName": "Pittsburgh Pirates",
+        "ballparkName": "PNC Park",
+        "visited": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.15732,
+          32.706922
+        ]
+      },
+      "properties": {
+        "teamName": "San Diego Padres",
+        "ballparkName": "PETCO Park",
+        "visited": "Kitty only"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.38959,
+          37.778473
+        ]
+      },
+      "properties": {
+        "teamName": "San Francisco Giants",
+        "ballparkName": "AT&T Park",
+        "visited": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33288,
+          47.59111
+        ]
+      },
+      "properties": {
+        "teamName": "Seattle Mariners",
+        "ballparkName": "Safeco Field",
+        "visited": 2010,
+        "photoType": "ballpark",
+        "photo": "ballparks/SafecoField.JPG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.192793,
+          38.624005
+        ]
+      },
+      "properties": {
+        "teamName": "St. Louis Cardinals",
+        "ballparkName": "Busch Stadium",
+        "visited": "2017",
+        "photoType": "ballpark",
+        "photo": "ballparks/BuschStadium.JPG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.653246,
+          27.768016
+        ]
+      },
+      "properties": {
+        "teamName": "Tampa Bay Devil Rays",
+        "ballparkName": "Tropicana Field",
+        "visited": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.083047,
+          32.75155
+        ]
+      },
+      "properties": {
+        "teamName": "Texas Rangers",
+        "ballparkName": "Globe Life Park in Arlington",
+        "visited": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38921,
+          43.641305
+        ]
+      },
+      "properties": {
+        "teamName": "Toronto Blue Jays",
+        "ballparkName": "Rogers Centre",
+        "visited": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.00762,
+          38.8727
+        ]
+      },
+      "properties": {
+        "teamName": "Washington Nationals",
+        "ballparkName": "Nationals Park",
+        "visited": "N/A"
+      }
+    }
+  ]
+}
